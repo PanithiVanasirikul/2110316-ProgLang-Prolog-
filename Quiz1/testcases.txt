@@ -1,0 +1,17 @@
+actualPay(joruno,0,Ans).   % Not possible 0
+actualPay(porupo,0,Ans).   % Not possible 0  
+actualPay(joruno,1,Ans).   % 100,000
+actualPay(joruno,2,Ans).   % 1,100,000
+
+actualPay(naransha,1,Ans). % 80000
+actualPay(doppio,1,Ans).   % 50000
+actualPay(bujaratti,1,Ans). % Not possible 0
+actualPay(bujaratti,2,Ans). % 1,000,000
+actualPay(resotto,2,Ans).   % 800,000
+actualPay(porupo,2,Ans).    % 500,000 
+
+actualPay(naransha,2,Ans).  %  880,000
+actualPay(doppio,2,Ans).    %  550,000
+
+
+
